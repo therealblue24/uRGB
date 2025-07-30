@@ -6,7 +6,7 @@ Refrence code is in `urgb.h`.
 
 ![slice of uRGB gamut](slice.png)
 
-Slice of the uRGB gamut, with g=0.5 and r=x and b=y.
+Slice of the uRGB gamut, with g=0.5 and r=x and b=y. Transparent regions indicate areas where the uRGB color cannot be displayed in normal RGB.
 
 ![blue -> yellow gradient](blue_yellow.png)
 
