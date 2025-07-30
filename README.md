@@ -12,6 +12,8 @@ Slice of the uRGB gamut, with g=0.5 and r=x and b=y.
 
 Gradient with smooth transistion between blue and yellow, calculated in uRGB.
 
+> A thing I noticed: it seems as if in the center of this gradient it slightly hue-shifts to green, which actually makes sense here since blue+yellow = green...
+
 ![white -> blue gradient](white_blue.png)
 
 Gradient with smooth transistion between white and blue, calculated in uRGB.
