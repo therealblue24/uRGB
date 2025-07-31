@@ -17,9 +17,9 @@
  *
  * NOTE:   The gamut is different from the RGB gamut.
  * NOTE 2: Probably does not work for colors outside
-           the RGB gamut (i.e. HDR)
+ *         the RGB gamut (i.e. HDR)
  * NOTE 3: Good luck trying to make a Lab-like space
-           out of this.
+ *         out of this.
  */
 
 #ifndef URGB_H_
